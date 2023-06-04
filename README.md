@@ -25,7 +25,7 @@ I'm [Darshan M](https://darshanmukunda98.github.io/), a full stack product devel
 
 
 
-- 🔭 I'm currently attending and enhancing my skills at Geekskool
+- 🔭 I'm currently working at Petrabytes Corp as a Java Developer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: darshanmukunda098@gmail.com
 - ⚡ Fun fact: I play games and go to the GYM very often.
